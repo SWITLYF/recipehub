@@ -5,7 +5,6 @@ const allowedOrigins = [
   "https://recipehub.com.ng",
   "https://www.recipehub.com.ng",
   "https://recipehubfrontend.vercel.app",
-
   "https://recipen.vercel.app",
   "https://recipen-backend.onrender.com",
 ];
